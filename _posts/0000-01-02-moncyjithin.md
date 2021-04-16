@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide! With new Changes!!!"
 ---
-Your text
+ Have made changes.
 Added new comment alwaysqq
